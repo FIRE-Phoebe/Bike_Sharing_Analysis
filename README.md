@@ -58,5 +58,5 @@ According to Bike-sharing analysis, we can conclude that NYC Citibike program ha
 
 ___________________________________________________________________________________________________________________________________________________
 
-Contributor: Phoebe J. Miao
-Contact： 
+- Project Contributor: Phoebe J. Miao
+- Contact: phoebem2021data@gmail.com 
