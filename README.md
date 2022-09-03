@@ -56,3 +56,7 @@ https://public.tableau.com/app/profile/phoebe7195/viz/NYCCitibikeAnalysis_164854
 ## Summary 
 According to Bike-sharing analysis, we can conclude that NYC Citibike program has a good prospect for business. Based on the checkout time per hour, per weekday, and uses which shows that most of the riders are using bike-sharing to commute or travel. We are successfully using powerful visualization tools to support our business proposal and created a story to perform our results. For future analysis, we will suggest to create a dashborad and add additional worksheets about biking repair, and how bike utilization by using Tableau visualization. 
 
+___________________________________________________________________________________________________________________________________________________
+
+Contributor: Phoebe J. Miao
+Contact： 
