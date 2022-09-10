@@ -1,7 +1,7 @@
 # Bike-Sharing Business Analysis
 
 ## Overview of the analysis
-Bike-Sharing business analysis uses Tableau visualization to present a business proposal for a bike-sharing company. We create worksheets, dashboards, and stories to visualizae key data base on the New York Citi Bike dataset. Our goal is to use Tableau visualiztion tools to prepare a presentation and analysis to explore the Bike-sharing business.
+Bike-Sharing business analysis uses Tableau visualization to present a business proposal for a bike-sharing company. We create worksheets, dashboards, and stories to visualize key data base on the New York Citi Bike dataset. Our goal is to use Tableau visualiztion tools to prepare a presentation and analysis to explore the Bike-sharing business.
 
 
 ## Results 
